@@ -119,7 +119,7 @@ typedef struct list {
 void * findMaxBlock(list *head)  
 Пример №1  
 Данные на входе:  		
-![Иллюстрация к проекту]
+![Иллюстрация к проекту](https://github.com/doctor-robot116/ADV_C/blob/main/image/1.jpg)
 
 
 # HWA_2_2 Задача 2-2-Всего памяти  
