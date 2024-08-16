@@ -140,7 +140,7 @@ size_t totalMemoryUsage(list *head)
 Пример №1  
 Данные на входе:  
 
-
+![Иллюстрация к проекту](https://github.com/doctor-robot116/ADV_C/blob/main/image/2.jpg)
  	
 Данные на выходе:	140  
 
