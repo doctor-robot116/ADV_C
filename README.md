@@ -170,5 +170,5 @@ for (int i = 0; i < CONTROLS; i++)
 Функция должна иметь вид:  
 int checkDirection(snake_t* snake, int32_t key).  
 
-
+![Иллюстрация к проекту](https://github.com/doctor-robot116/ADV_C/blob/main/snake2/scr_snake2.jpg)
 
